@@ -1,5 +1,5 @@
 {
-  "name": "angular2-rx-starter",
+  "name": "angular2-redux-starter",
   "version": "1.0.0",
   "description": "Angular 2 starter pack with webpack and rx",
   "main": "webpack.config.js",
