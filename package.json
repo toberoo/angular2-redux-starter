@@ -1,0 +1,41 @@
+{
+  "name": "angular2-rx-starter",
+  "version": "1.0.0",
+  "description": "Angular 2 starter pack with webpack and rx",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shehroze Khan <toberoo@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/core-js": "^0.9.35",
+    "html-webpack-plugin": "^2.28.0",
+    "ts-loader": "^2.0.0",
+    "tslint": "^4.4.2",
+    "tslint-loader": "^3.3.0",
+    "typescript": "^2.1.5",
+    "webpack": "^2.1.0-beta.25"
+  },
+  "dependencies": {
+    "@angular/core": "^2.4.5",
+    "@angular/common": "~2.4.3",
+    "@angular/compiler": "~2.4.3",
+    "@angular/forms": "~2.4.3",
+    "@angular/http": "~2.4.3",
+    "@angular/platform-browser": "~2.4.3",
+    "@angular/platform-browser-dynamic": "~2.4.3",
+    "@angular/platform-server": "~2.4.3",
+    "@angular/router": "~3.4.3",
+    "@angularclass/conventions-loader": "^1.0.2",
+    "@angularclass/hmr": "~1.2.2",
+    "@angularclass/hmr-loader": "~3.0.2",
+    "core-js": "^2.4.1",
+    "http-server": "^0.9.0",
+    "ie-shim": "^0.1.0",
+    "jasmine-core": "^2.5.2",
+    "reflect-metadata": "^0.1.9",
+    "rxjs": "^5.0.3",
+    "zone.js": "^0.7.6"
+  }
+}
