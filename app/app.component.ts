@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
   `
 })
 export class AppComponent {
-  message = "Hey"
+  message = "Hey  !"
   constructor() {}
 
   public ngOnInit() {
